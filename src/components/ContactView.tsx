@@ -123,7 +123,7 @@ export default function ContactView({ onRenewConsent }: ContactViewProps) {
                 Representative enquiries are locked into local system records. Under standard frameworks, users can instantly remove any records with a simple click using our **Privacy Hub**.
               </p>
               <div className="pt-1.5 font-mono text-[9px] text-gray-500 flex justify-between">
-                <span>DPO: Mr. Rohan Vance</span>
+                <span>DPO: Mr. Robert Vance</span>
                 <span className="underline">privacy@legal-demo.com</span>
               </div>
             </div>

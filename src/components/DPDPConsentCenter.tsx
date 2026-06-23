@@ -41,7 +41,7 @@ export default function DPDPConsentCenter({ isOpen, onClose, consentState, onRev
         dataFiduciary: "Apex Legal Partners Ltd"
       },
       submittedInquiries: localStorageLogs,
-      complianceAuditor: "DPO: Mr. Rohan Vance (privacy@legal-demo.com)"
+      complianceAuditor: "DPO: Mr. Robert Vance (privacy@legal-demo.com)"
     };
 
     const blob = new Blob([JSON.stringify(dataExportPayload, null, 2)], { type: 'application/json' });
@@ -221,7 +221,7 @@ export default function DPDPConsentCenter({ isOpen, onClose, consentState, onRev
         </div>
 
         <div className="mt-6 flex justify-between items-center text-[9px] text-gray-400 border-t border-gray-100 pt-4">
-          <span>DPO Officer: Mr. Rohan Vance</span>
+          <span>DPO Officer: Mr. Robert Vance</span>
           <span>Compliant with the International Data Privacy Framework</span>
         </div>
       </motion.div>
