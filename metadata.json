@@ -1,0 +1,6 @@
+{
+  "name": "Apex Legal Partners",
+  "description": "Informational portal of Apex Legal Partners, a premier global corporate and litigation law firm, fully compliant with the Standard Legal Compliance Board Rule 36 and the International Data Privacy Framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
